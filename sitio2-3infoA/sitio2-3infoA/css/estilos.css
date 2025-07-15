@@ -1,0 +1,9 @@
+body{
+	background: #1B2631;
+	margin: 0;
+}
+
+header,footer{
+	background: linear-gradient(bottom #34495E, #85929E);
+	padding: 0.5em;
+}
